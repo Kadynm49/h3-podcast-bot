@@ -10,6 +10,6 @@ Then I use [punctuator](https://pypi.org/project/punctuator/) to add punctuation
 
 I have the bot running on an ubuntu VM set with the following crontab file:
 
-```0 */7 * * * python3 /home/erviewre/h3podcastbot/tweet.py >> /dev/null 2>&1```
+```0 */7 * * * python3 /h3podcastbot/tweet.py >> /dev/null 2>&1```
 
 😁
